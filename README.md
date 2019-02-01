@@ -1,5 +1,4 @@
-# hass-host-mqtt
-Home Assistant Host MQTT Daemon
+# Home Assistant Host MQTT Daemon
 
 # Credits
 inspired by :
